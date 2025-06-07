@@ -1,0 +1,14 @@
+
+ 1749276023425: GET: /users
+ 1749276040831: GET: /api/users
+ 1749276075980: GET: /api/users
+ 1749276078658: GET: /api/users/69
+ 1749276120313: POST: /api/users
+ 1749276178018: POST: /api/users
+ 1749276300726: GET: /api/users/
+ 1749276348585: GET: /api/users/
+ 1749276479197: ::1: GET: /api/users/    here ip is ::1 cz. its from loclahost
+ 1749276842291: ::1: GET: /api/users/
+ 1749280125425: ::1: GET: /api/users/
+ 1749280939901: ::1: GET: /api/users/45
+ 1749282667048: ::1: GET: /api/users/
